@@ -2,36 +2,33 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Agapova Anna
+  given: Anna
+  family: Agapova
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
   - PhD
   - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "💗"
+role: Business Analyst
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I love reading books, dancing and learning programming.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: RUDN
+    url: https://www.rudn.ru/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:1032251933@pfur.ru
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://x.com/anyaagapovaa
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/anyaagapovaa
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
@@ -40,15 +37,16 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Programming
+  - Operating systems
+  - Web development
+  - Reading books
+  - Learning languages
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
+  - degree: Business Analyst
+    institution: RUDN
+    start: 2025-09-01
     end: 2019-06-30
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
@@ -56,14 +54,6 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
 
 experience:
   - role: Senior AI Research Scientist
@@ -103,10 +93,19 @@ skills:
 languages:
   - name: English
     level: 5
-    label: Native
+    label: Fluent
   - name: Spanish
     level: 4
     label: Fluent
+  - name: German
+    level: 3
+    label: Fluent
+  - name: Turkish
+    level: 3
+    label: Fluent
+  - name: Russian
+    level: 5
+    label: Native
 
 awards:
   - title: Best Paper Award

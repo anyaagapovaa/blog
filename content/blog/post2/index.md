@@ -1,23 +1,23 @@
 ---
-title: "Управление версиями. Git"
+title: "Version control. Git"
 date: 2026-03-20
 draft: false
 authors:
   - admin
 tags:
   - git
-  - инструменты
+  - tools
 categories:
-  - технологии
+  - technologies
 ---
 
-Git — это система контроля версий, которая помогает отслеживать изменения в коде.
+Git is a version control system that helps track changes to code.
 
-Основные команды:
-- git init — создать репозиторий
-- git add — добавить файлы
-- git commit — сохранить изменения
-- git push — отправить на GitHub
-- git pull — скачать изменения
+Basic commands:
+- git init — create a repository
+- git add — add files
+- git commit — save changes
+- git push — send to GitHub
+- git pull — download changes
 
-В своём проекте я использую Git для публикации сайта на GitHub Pages.
+In my project, I use Git to publish the site to GitHub Pages.

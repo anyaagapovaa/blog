@@ -1,21 +1,21 @@
 ---
-title: "Моя неделя"
+title: "My week"
 date: 2026-03-20
 draft: false
 authors:
   - admin
 tags:
-  - жизнь
-  - учёба
+  - life
+  - study
 categories:
-  - личное
+  - personal
 ---
 
-На этой неделе я:
-- Работала над индивидуальным проектом
-- Разобралась с Hugo 
-- Настроила локальный сервер
-- Научилась редактировать файлы конфигурации
-- Сделала лабораторную работу №6
+This week I:
+- Worked on a custom project
+- Figured out Hugo
+- Set up a local server
+- Learned how to edit configuration files
+- Completed Lab #6
 
-Было интересно!
+It was fun!
